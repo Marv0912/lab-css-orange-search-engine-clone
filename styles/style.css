@@ -1,0 +1,21 @@
+.container {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.title {
+    margin-left: 8px;
+    color: rgb(255, 131, 85);
+}
+.title-container {
+    display: flex;
+    justify-content: center;
+
+}
+.header-container {
+    width: 273px;
+    height: 95px;
+    
+}
